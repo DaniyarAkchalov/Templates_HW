@@ -1,0 +1,14 @@
+.footer_section{
+background-color: #404149;
+}
+
+.footer{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 82px;
+}

@@ -1,0 +1,35 @@
+.smart_proj_section{
+   background-color: #F7654a; 
+   color: white;
+      
+}
+
+.smart_proj{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 181px;
+}
+.button{
+    width: 175px;
+    height: 49px;
+    color: black;
+    background-color: white;
+    font-size: 14px;
+    font-weight: 500;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.smart_proj h2{
+   margin-bottom: 20px;
+   font-size: 48px;
+   font-weight: 700; 
+}
+
+.smart_proj p{
+    font-size: 24px;
+    font-weight: 700;
+}
